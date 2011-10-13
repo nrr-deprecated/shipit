@@ -25,7 +25,7 @@ In your .shipit configuration file, the following options are recognized:
 =item B<fossil.remote_url>
 
 If you want the newly created to be pushed elsewhere (for instance in your
-public Mercurial repository), then you can specify the destination in this variable
+public Fossil repository), then you can specify the destination in this variable
 
 =back
 
